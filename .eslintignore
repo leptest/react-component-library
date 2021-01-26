@@ -1,6 +1,5 @@
-**/*.{min}.js
-public/*
-node_modules/*
-dist/*
-artifacts/*
-docs/*
+build/
+dist/
+node_modules/
+.snapshots/
+*.min.js
